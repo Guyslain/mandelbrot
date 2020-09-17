@@ -19,7 +19,7 @@ Dans l'onglet Project, clic droit sur le fichier "src/viewer/Main.java", choisis
 
 `--module-path ***CHEMIN VERS OPENJFX*** --add-modules javafx.controls,javafx.fxml`
 
-en remplaçant `***...***` par le chemin du répertoire d'installation de javaFX, le répertoire contenant les fichiers d'extensions `.jar`. Sur les ordinateurs de l'université, il devrait être dans `/usr/local/openJFX` ou `/usr/share/openJFX` ou un autre (mais dans `/usr/` certainement).
+en remplaçant `***...***` par le chemin du répertoire d'installation de javaFX, le répertoire contenant les fichiers d'extensions `.jar`. Sur les ordinateurs de l'université, il devrait être dans `/usr/lib/openJFX` ou `/usr/share/openJFX` ou un autre (mais dans `/usr/` certainement).
 
 Vous avez maintenant les deux configurations pour lancer le programme, soit les tests, soit le main, dans la barre de lancement en haut à droite de l'IDE. Vous pouvez commencer le TP.
 
